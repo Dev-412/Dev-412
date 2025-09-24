@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-412
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java/python 
 - 💞️ I’m looking to collaborate on... 
 - 📫 Mail at dev30112010@gmail.com
 - 😄 Pronouns: He/Him

@@ -62,9 +62,9 @@ Collection of frontend and backend mini-projects built while learning full stack
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-412&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=Dev-412&show_icons=true&theme=tokyonight&hide_border=true" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-412&layout=compact&theme=tokyonight&border_radius=10" height="180"/>
+  <img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Dev-412&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---

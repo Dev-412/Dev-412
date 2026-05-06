@@ -52,13 +52,6 @@ Java + SQL based billing system that automates the customer billing process.
 
 ---
 
-### 📄 OCR Text Extractor
-Python project using OCR to extract text from images.
-
-**Tech Used:** Python, Pytesseract
-
----
-
 ### 🌐 Full Stack Practice Projects
 Collection of frontend and backend mini-projects built while learning full stack development.
 
@@ -69,8 +62,9 @@ Collection of frontend and backend mini-projects built while learning full stack
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-412&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-412&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-412&show_icons=true&theme=tokyonight&border_radius=10" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-412&layout=compact&theme=tokyonight&border_radius=10" height="180"/>
 </p>
 
 ---

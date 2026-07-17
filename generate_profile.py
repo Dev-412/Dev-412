@@ -70,6 +70,22 @@ THEMES = {
     },
 }
 
+# ----------------------------------------------------------------------------
+# BOOT SEQUENCE
+# ----------------------------------------------------------------------------
+BOOT_DURATION = 2.8   # seconds the boot occupies before neofetch starts
+
+BOOT_SEQUENCE = [
+    (0.0,  "Initializing Developer Environment..."),
+    (0.3,  "[✓] Loading profile..."),
+    (0.7,  "[✓] Fetching GitHub metadata..."),
+    (1.1,  "[✓] Mounting repositories..."),
+    (1.5,  "[✓] Initializing AI workspace..."),
+    (1.9,  "[✓] Environment ready."),
+]
+BOOT_FADE_START = 2.5  # when the whole boot group starts fading out
+BOOT_FADE_DUR   = 0.3  # fade-out duration
+
 W, H = 980, 620
 ART_X, ART_Y = 30, 86
 ART_CW = 3.9          # forced char width (textLength keeps this exact in any font)
@@ -141,6 +157,10 @@ def render(theme_name, colors, stats, ist_now):
     .cur  {{ fill:{colors['prompt']}; animation: blink 1s steps(1) infinite; }}
     @keyframes blink {{ 50% {{ opacity:0; }} }}
     .artline {{ opacity:1; animation: fade .3s ease backwards; }}
+    .boot     {{ animation: bootfadeout {BOOT_FADE_DUR}s ease forwards;
+                 animation-delay: {BOOT_FADE_START}s; }}
+    .bootline {{ opacity:0; animation: fade .25s ease forwards; }}
+    @keyframes bootfadeout {{ to {{ opacity:0; }} }}
     </style>""")
 
     # window chrome
@@ -157,12 +177,23 @@ def render(theme_name, colors, stats, ist_now):
         parts.append(f'<circle cx="{24 + i*20}" cy="20" r="6" fill="{colors[c]}"/>')
     parts.append(
         f'<text x="{W/2}" y="24" class="ttl" text-anchor="middle">'
-        f'{escape(USERNAME)} — zsh — 90×26</text>'
+        f'dev@github — Developer Environment</text>'
     )
 
-    # command line
+    # boot sequence
+    parts.append(f'<g class="boot">')
+    boot_y = 66
+    for t, msg in BOOT_SEQUENCE:
+        parts.append(
+            f'<text x="{ART_X}" y="{boot_y}" class="val bootline" '
+            f'style="animation-delay:{t:.2f}s">{escape(msg)}</text>'
+        )
+        boot_y += 20
+    parts.append('</g>')
+
+    # command line (delayed by boot duration)
     parts.append(
-        f'<text x="{ART_X}" y="66" class="row" style="animation-delay:.05s">'
+        f'<text x="{ART_X}" y="66" class="row" style="animation-delay:{BOOT_DURATION + 0.05:.2f}s">'
         f'<tspan class="key">➜</tspan>'
         f'<tspan class="acc" dx="8">~</tspan>'
         f'<tspan class="val" dx="8">neofetch --profile</tspan></text>'
@@ -173,7 +204,7 @@ def render(theme_name, colors, stats, ist_now):
         if not line.strip():
             continue
         y = ART_Y + i * ART_LH
-        delay = 0.15 + i * 0.012
+        delay = BOOT_DURATION + 0.15 + i * 0.012
         tl = len(line) * ART_CW
         parts.append(
             f'<text x="{ART_X}" y="{y:.1f}" class="art artline" xml:space="preserve" '
@@ -183,7 +214,7 @@ def render(theme_name, colors, stats, ist_now):
 
     # info block
     y = INFO_Y
-    delay = 0.35
+    delay = BOOT_DURATION + 0.35
     cls_map = {"val": "val", "accent": "acc", "warn": "wrn", "muted": "mut"}
 
     for label, value, ckey in INFO:

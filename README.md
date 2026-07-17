@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" width="100%">
+---
 
 ## `~/projects`
 
@@ -21,52 +21,52 @@
 <tr>
 <td width="50%" valign="top">
 
-### HUSH
-> Autonomous multi-agent SRE incident response system
+### StegoSafe
+> Secure messaging with RSA encryption & image steganography
 
-`Python` `CrewAI` `LangChain` `Docker`
+`Python` `Flask` `HTML` `CSS` `JavaScript`
 
-Reduced incident resolution from **~30 min → < 2 min** using orchestrated AI agents that detect, diagnose, and remediate production issues autonomously.
+Two-layer security platform — RSA encrypts the message, LSB steganography hides it inside images. Includes auth, chat, and profile system.
 
-[`→ Repository`](https://github.com/Dev-412/HUSH)
+[`→ Repository`](https://github.com/Dev-412/StegoSafe)
 
 </td>
 <td width="50%" valign="top">
 
-### CogniLearn
-> AI-powered skilling & interview preparation platform
+### Store-Billing-System
+> Automated self-checkout billing system
 
-`Python` `Django` `React` `OpenAI`
+`Java`
 
-Adaptive learning paths with AI-generated assessments, mock interviews, and real-time feedback for technical skill development.
+Desktop application that automates the in-store billing process for customers with itemized invoicing and receipt generation.
 
-[`→ Repository`](https://github.com/Dev-412/CogniLearn)
+[`→ Repository`](https://github.com/Dev-412/Store-Billing-System)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### FuelWatch
-> CrewAI multi-agent fuel theft detection system
+### Arbitrum-Workshop
+> Blockchain workshop on Arbitrum L2
 
-`Python` `CrewAI` `ML` `PostgreSQL`
+`HTML` `CSS` `JavaScript`
 
-Multi-agent pipeline for anomaly detection in fuel consumption data. Achieves **97% accuracy** in identifying theft patterns.
+Hands-on workshop materials for building on the Arbitrum Layer 2 ecosystem. Deployed on GitHub Pages.
 
-[`→ Repository`](https://github.com/Dev-412/FuelWatch)
+[`→ Repository`](https://github.com/Dev-412/Arbitrum-Workshop) · [`→ Live`](https://dev-412.github.io/Arbitrum-Workshop/)
 
 </td>
 <td width="50%" valign="top">
 
-### MediGuide
-> ML-powered health assistant — Published in Springer LNNS
+### FSD-Codes
+> Full Stack Development coursework & labs
 
-`Python` `Flask` `scikit-learn` `NLP`
+`HTML` `JavaScript` `CSS`
 
-Intelligent health recommendation system with symptom analysis. Research published in **Springer LNNS (Scopus indexed)**.
+Collection of full-stack development practicals covering frontend fundamentals, DOM manipulation, and web application patterns.
 
-[`→ Repository`](https://github.com/Dev-412/MediGuide)
+[`→ Repository`](https://github.com/Dev-412/FSD-Codes)
 
 </td>
 </tr>
@@ -75,7 +75,7 @@ Intelligent health recommendation system with symptom analysis. Research publish
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" width="100%">
+---
 
 ## `~/contributions`
 
@@ -91,21 +91,21 @@ Intelligent health recommendation system with symptom analysis. Research publish
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" width="100%">
+---
 
 ## `~/leetcode`
 
 <br>
 
 <div align="center">
-  <a href="https://leetcode.com/u/Dev_412/">
-    <img src="https://leetcard.jacoblin.cool/Dev_412?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=8" alt="LeetCode Stats" height="200">
+  <a href="https://leetcode.com/u/devp412/">
+    <img src="https://leetcard.jacoblin.cool/devp412?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=8" alt="LeetCode Stats" height="200">
   </a>
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" width="100%">
+---
 
 ## `~/activity`
 
@@ -113,36 +113,13 @@ Intelligent health recommendation system with symptom analysis. Research publish
 
 <div align="center">
   <a href="https://github.com/Dev-412">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-412&bg_color=0d1117&color=58a6ff&line=3fb950&point=bc8cff&area=true&area_color=3fb95020&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" width="100%">
+    <img src="https://raw.githubusercontent.com/Dev-412/Dev-412/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%">
   </a>
 </div>
 
 <br>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" width="100%">
-
-## `~/focus`
-
-<br>
-
-<div align="center">
-
-```
-┌─────────────────────────────────────┐
-│         Currently Building          │
-├─────────────────────────────────────┤
-│  ◈  Scam Detection Platform        │
-│  ◈  Learning System Design         │
-│  ◈  Preparing for Open Source      │
-│  ◈  Building Backend Projects      │
-└─────────────────────────────────────┘
-```
-
-</div>
-
-<br>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="" width="100%">
+---
 
 <br>
 

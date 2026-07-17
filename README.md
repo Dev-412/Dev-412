@@ -8,110 +8,80 @@
 
 </div>
 
-```bash
+#
+
+```
 ➜  ~ cd ~/projects
 ```
 
-```
-drwxr-xr-x  StegoSafe/
-drwxr-xr-x  Store-Billing-System/
-drwxr-xr-x  Arbitrum-Workshop/
-drwxr-xr-x  FSD-Codes/
-```
+<table>
+<tr>
+<td width="50%">
+<h3>📁 StegoSafe</h3>
+<code>Python</code> <code>Flask</code> <code>HTML</code> <code>CSS</code> <code>JS</code>
+<br><br>
+<a href="https://github.com/Dev-412/StegoSafe">Repository →</a>
+</td>
+<td width="50%">
+<h3>📁 Store-Billing-System</h3>
+<code>Java</code>
+<br><br>
+<a href="https://github.com/Dev-412/Store-Billing-System">Repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3>📁 Arbitrum-Workshop</h3>
+<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+<br><br>
+<a href="https://github.com/Dev-412/Arbitrum-Workshop">Repository →</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://dev-412.github.io/Arbitrum-Workshop/">Live Demo →</a>
+</td>
+<td width="50%">
+<h3>📁 FSD-Codes</h3>
+<code>HTML</code> <code>JavaScript</code> <code>CSS</code>
+<br><br>
+<a href="https://github.com/Dev-412/FSD-Codes">Repository →</a>
+</td>
+</tr>
+</table>
 
-```bash
-➜  projects cat StegoSafe/README.md
-```
-
-```
-Name            StegoSafe
-Description     Secure communication platform using RSA encryption
-                and LSB image steganography. Two-layer security —
-                encrypts the message, then hides it inside images.
-                Includes auth, real-time chat, and profile system.
-Stack           Python · Flask · HTML · CSS · JavaScript
-```
-
-> [`→ github.com/Dev-412/StegoSafe`](https://github.com/Dev-412/StegoSafe)
-
-```bash
-➜  projects cat Store-Billing-System/README.md
-```
-
-```
-Name            Store-Billing-System
-Description     Java application that automates the in-store
-                self-billing process for customers. Handles
-                itemized invoicing and receipt generation.
-Stack           Java
-```
-
-> [`→ github.com/Dev-412/Store-Billing-System`](https://github.com/Dev-412/Store-Billing-System)
-
-```bash
-➜  projects cat Arbitrum-Workshop/README.md
-```
+#
 
 ```
-Name            Arbitrum-Workshop
-Description     Hands-on workshop materials for building on the
-                Arbitrum Layer 2 blockchain ecosystem.
-                Deployed on GitHub Pages.
-Stack           HTML · CSS · JavaScript
+➜  ~ git contribution-map
 ```
 
-> [`→ github.com/Dev-412/Arbitrum-Workshop`](https://github.com/Dev-412/Arbitrum-Workshop) · [`→ live demo`](https://dev-412.github.io/Arbitrum-Workshop/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-412/Dev-412/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-412/Dev-412/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Dev-412/Dev-412/output/github-snake-dark.svg" width="100%">
+</picture>
 
-```bash
-➜  projects cat FSD-Codes/README.md
+#
+
 ```
-
-```
-Name            FSD-Codes
-Description     Full-stack development coursework and lab
-                practicals. Covers frontend fundamentals, DOM
-                manipulation, and web application patterns.
-Stack           HTML · JavaScript · CSS
-```
-
-> [`→ github.com/Dev-412/FSD-Codes`](https://github.com/Dev-412/FSD-Codes)
-
-```bash
-➜  projects cd ~/contributions
-➜  contributions git log --graph --oneline --all
+➜  ~ leetcode stats
 ```
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-412/Dev-412/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-412/Dev-412/output/github-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Dev-412/Dev-412/output/github-snake-dark.svg" width="100%">
-  </picture>
+<a href="https://leetcode.com/u/devp412/">
+  <img src="https://leetcard.jacoblin.cool/devp412?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=8" alt="LeetCode Stats" height="200">
+</a>
+<br>
+<a href="https://leetcode.com/u/devp412/">View Profile →</a>
 </div>
 
-```bash
-➜  contributions leetcode stats --user devp412
+#
+
+```
+➜  ~ contact
 ```
 
 <div align="center">
-  <a href="https://leetcode.com/u/devp412/">
-    <img src="https://leetcard.jacoblin.cool/devp412?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=8" alt="LeetCode Stats" height="200">
-  </a>
+
+[`GitHub`](https://github.com/Dev-412)&nbsp;&nbsp;·&nbsp;&nbsp;[`LinkedIn`](https://www.linkedin.com/in/dev-patel-3381a5354/)&nbsp;&nbsp;·&nbsp;&nbsp;[`Email`](mailto:dev30112010@gmail.com)
+
 </div>
-
-> [`→ leetcode.com/u/devp412`](https://leetcode.com/u/devp412/)
-
-```bash
-➜  ~ cat contact.txt
-```
-
-```
-GitHub          https://github.com/Dev-412
-LinkedIn        https://linkedin.com/in/dev-patel-3381a5354
-Email           dev30112010@gmail.com
-```
-
-> [`GitHub`](https://github.com/Dev-412) · [`LinkedIn`](https://www.linkedin.com/in/dev-patel-3381a5354/) · [`Email`](mailto:dev30112010@gmail.com)
 
 ```
 ➜  ~ █

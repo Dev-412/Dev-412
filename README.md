@@ -10,63 +10,63 @@
 
 <br>
 
----
-
-## `~/projects`
+<div align="center"><sub>─────────────────────────────────────────────────────</sub></div>
 
 <br>
+
+## `~/projects`
 
 <div align="center">
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### StegoSafe
-> Secure messaging with RSA encryption & image steganography
+**StegoSafe**
+<sub>Secure messaging with RSA encryption & image steganography</sub>
 
 `Python` `Flask` `HTML` `CSS` `JavaScript`
 
 Two-layer security platform — RSA encrypts the message, LSB steganography hides it inside images. Includes auth, chat, and profile system.
 
-[`→ Repository`](https://github.com/Dev-412/StegoSafe)
+<a href="https://github.com/Dev-412/StegoSafe"><code>→ Repository</code></a>
 
 </td>
 <td width="50%" valign="top">
 
-### Store-Billing-System
-> Automated self-checkout billing system
+**Store-Billing-System**
+<sub>Automated self-checkout billing system</sub>
 
 `Java`
 
 Desktop application that automates the in-store billing process for customers with itemized invoicing and receipt generation.
 
-[`→ Repository`](https://github.com/Dev-412/Store-Billing-System)
+<a href="https://github.com/Dev-412/Store-Billing-System"><code>→ Repository</code></a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Arbitrum-Workshop
-> Blockchain workshop on Arbitrum L2
+**Arbitrum-Workshop**
+<sub>Blockchain workshop on Arbitrum L2</sub>
 
 `HTML` `CSS` `JavaScript`
 
 Hands-on workshop materials for building on the Arbitrum Layer 2 ecosystem. Deployed on GitHub Pages.
 
-[`→ Repository`](https://github.com/Dev-412/Arbitrum-Workshop) · [`→ Live`](https://dev-412.github.io/Arbitrum-Workshop/)
+<a href="https://github.com/Dev-412/Arbitrum-Workshop"><code>→ Repository</code></a>&nbsp;&nbsp;<a href="https://dev-412.github.io/Arbitrum-Workshop/"><code>→ Live</code></a>
 
 </td>
 <td width="50%" valign="top">
 
-### FSD-Codes
-> Full Stack Development coursework & labs
+**FSD-Codes**
+<sub>Full Stack Development coursework & labs</sub>
 
 `HTML` `JavaScript` `CSS`
 
 Collection of full-stack development practicals covering frontend fundamentals, DOM manipulation, and web application patterns.
 
-[`→ Repository`](https://github.com/Dev-412/FSD-Codes)
+<a href="https://github.com/Dev-412/FSD-Codes"><code>→ Repository</code></a>
 
 </td>
 </tr>
@@ -75,11 +75,11 @@ Collection of full-stack development practicals covering frontend fundamentals, 
 
 <br>
 
----
-
-## `~/contributions`
+<div align="center"><sub>─────────────────────────────────────────────────────</sub></div>
 
 <br>
+
+## `~/contributions`
 
 <div align="center">
   <picture>
@@ -91,43 +91,31 @@ Collection of full-stack development practicals covering frontend fundamentals, 
 
 <br>
 
----
-
-## `~/leetcode`
+<div align="center"><sub>─────────────────────────────────────────────────────</sub></div>
 
 <br>
+
+## `~/leetcode`
 
 <div align="center">
   <a href="https://leetcode.com/u/devp412/">
     <img src="https://leetcard.jacoblin.cool/devp412?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=8" alt="LeetCode Stats" height="200">
   </a>
+  <br>
+  <sub><a href="https://leetcode.com/u/devp412/">View Profile →</a></sub>
 </div>
 
 <br>
 
----
-
-## `~/activity`
+<div align="center"><sub>─────────────────────────────────────────────────────</sub></div>
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/Dev-412">
-    <img src="https://raw.githubusercontent.com/Dev-412/Dev-412/main/profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" width="100%">
-  </a>
-</div>
-
-<br>
-
----
-
-<br>
+## `~/contact`
 
 <div align="center">
 
-[<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28">](https://github.com/Dev-412)&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" height="28">](https://www.linkedin.com/in/dev-patel-3381a5354/)&nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" height="28">](mailto:dev30112010@gmail.com)
+[<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28">](https://github.com/Dev-412)&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" height="28">](https://www.linkedin.com/in/dev-patel-3381a5354/)&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" height="28">](mailto:dev30112010@gmail.com)
 
 <br>
 

@@ -119,22 +119,21 @@
 <text x="448" y="232.5" class="key row" style="animation-delay:3.71s">Data</text>
 <text x="540" y="232.5" class="val row" style="animation-delay:3.71s">PostgreSQL · MongoDB</text>
 <text x="448" y="260.0" class="sec row" style="animation-delay:3.78s">~/projects</text>
-<text x="448" y="277.5" class="key row" style="animation-delay:3.85s">HUSH</text>
-<text x="540" y="277.5" class="wrn row" style="animation-delay:3.85s">Autonomous multi-agent SRE incident response</text>
-<text x="540" y="295.0" class="mut row" style="animation-delay:3.92s">incident resolution: ~30 min  -&gt;  &lt; 2 min</text>
-<text x="448" y="312.5" class="key row" style="animation-delay:3.99s">CogniLearn</text>
-<text x="540" y="312.5" class="wrn row" style="animation-delay:3.99s">AI skilling + interview prep platform</text>
-<text x="448" y="330.0" class="key row" style="animation-delay:4.06s">FuelWatch</text>
-<text x="540" y="330.0" class="wrn row" style="animation-delay:4.06s">CrewAI multi-agent theft detection · 97% acc</text>
-<text x="448" y="347.5" class="key row" style="animation-delay:4.13s">MediGuide</text>
-<text x="540" y="347.5" class="wrn row" style="animation-delay:4.13s">ML health assistant · Springer LNNS (Scopus)</text>
-<text x="448" y="375.0" class="sec row" style="animation-delay:4.20s">~/reach</text>
-<text x="448" y="392.5" class="key row" style="animation-delay:4.27s">Web</text>
-<text x="540" y="392.5" class="acc row" style="animation-delay:4.27s">https://github.com/Dev-412</text>
-<text x="448" y="410.0" class="key row" style="animation-delay:4.34s">In</text>
-<text x="540" y="410.0" class="acc row" style="animation-delay:4.34s">https://www.linkedin.com/in/dev-patel-3381a5354/</text>
-<text x="448" y="427.5" class="key row" style="animation-delay:4.41s">Mail</text>
-<text x="540" y="427.5" class="acc row" style="animation-delay:4.41s">dev30112010@gmail.com</text>
-<text x="30" y="596" class="row" style="animation-delay:4.58s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to AI Engineer / Backend SDE roles</tspan><tspan class="cur" dx="8">█</tspan></text>
-<text x="946" y="596" class="mut" text-anchor="end">last updated 17 Jul 2026, 22:37 IST</text>
+<text x="448" y="277.5" class="key row" style="animation-delay:3.85s">StegoSafe</text>
+<text x="540" y="277.5" class="wrn row" style="animation-delay:3.85s">Steganography-based secure file hiding</text>
+<text x="448" y="295.0" class="key row" style="animation-delay:3.92s">StoreBill</text>
+<text x="540" y="295.0" class="wrn row" style="animation-delay:3.92s">Retail billing management system (Java)</text>
+<text x="448" y="312.5" class="key row" style="animation-delay:3.99s">Arbitrum</text>
+<text x="540" y="312.5" class="wrn row" style="animation-delay:3.99s">Blockchain development workshop</text>
+<text x="448" y="330.0" class="key row" style="animation-delay:4.06s">FSD</text>
+<text x="540" y="330.0" class="wrn row" style="animation-delay:4.06s">Full Stack Development coursework</text>
+<text x="448" y="357.5" class="sec row" style="animation-delay:4.13s">~/reach</text>
+<text x="448" y="375.0" class="key row" style="animation-delay:4.20s">Web</text>
+<text x="540" y="375.0" class="acc row" style="animation-delay:4.20s">https://github.com/Dev-412</text>
+<text x="448" y="392.5" class="key row" style="animation-delay:4.27s">In</text>
+<text x="540" y="392.5" class="acc row" style="animation-delay:4.27s">https://www.linkedin.com/in/dev-patel-3381a5354/</text>
+<text x="448" y="410.0" class="key row" style="animation-delay:4.34s">Mail</text>
+<text x="540" y="410.0" class="acc row" style="animation-delay:4.34s">dev30112010@gmail.com</text>
+<text x="30" y="596" class="row" style="animation-delay:4.51s"><tspan class="key">➜</tspan><tspan class="acc" dx="8">~</tspan><tspan class="val" dx="8">open to AI Engineer / Backend SDE roles</tspan><tspan class="cur" dx="8">█</tspan></text>
+<text x="946" y="596" class="mut" text-anchor="end">last updated 18 Jul 2026, 15:48 IST</text>
 </svg>

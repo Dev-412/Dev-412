@@ -72,18 +72,18 @@ THEMES = {
 # ----------------------------------------------------------------------------
 # BOOT SEQUENCE
 # ----------------------------------------------------------------------------
-BOOT_DURATION = 2.8   # seconds the boot occupies before neofetch starts
+BOOT_DURATION = 1.20   # seconds the boot occupies before neofetch starts
 
 BOOT_SEQUENCE = [
-    (0.0,  "Initializing Developer Environment..."),
-    (0.3,  "[✓] Loading profile..."),
-    (0.7,  "[✓] Fetching GitHub metadata..."),
-    (1.1,  "[✓] Mounting repositories..."),
-    (1.5,  "[✓] Initializing AI workspace..."),
-    (1.9,  "[✓] Environment ready."),
+    (0.00, "Initializing Developer Environment..."),
+    (0.15, "[✓] Loading profile..."),
+    (0.30, "[✓] Fetching GitHub metadata..."),
+    (0.45, "[✓] Mounting repositories..."),
+    (0.60, "[✓] Initializing AI workspace..."),
+    (0.75, "[✓] Environment ready."),
 ]
-BOOT_FADE_START = 2.5  # when the whole boot group starts fading out
-BOOT_FADE_DUR   = 0.3  # fade-out duration
+BOOT_FADE_START = 1.00  # when the whole boot group starts fading out
+BOOT_FADE_DUR   = 0.20  # fade-out duration
 
 W, H = 980, 620
 ART_X, ART_Y = 30, 86
@@ -150,15 +150,15 @@ def render(theme_name, colors, stats, ist_now):
     .hdr  {{ fill:{colors['accent']}; font-size:15px; font-weight:700; }}
     .sec  {{ fill:{colors['muted']}; font-size:12px; letter-spacing:1px; }}
     .ttl  {{ fill:{colors['muted']}; font-size:12px; }}
-    .row  {{ opacity:1; animation: fade .35s ease backwards; }}
+    .row  {{ opacity:1; animation: fade .25s ease backwards; }}
     @keyframes fade {{ from {{ opacity:0; transform:translateY(3px); }}
                        to   {{ opacity:1; transform:translateY(0); }} }}
     .cur  {{ fill:{colors['prompt']}; animation: blink 1s steps(1) infinite; }}
     @keyframes blink {{ 50% {{ opacity:0; }} }}
-    .artline {{ opacity:1; animation: fade .3s ease backwards; }}
+    .artline {{ opacity:1; animation: fade .2s ease backwards; }}
     .boot     {{ animation: bootfadeout {BOOT_FADE_DUR}s ease forwards;
                  animation-delay: {BOOT_FADE_START}s; }}
-    .bootline {{ opacity:0; animation: fade .25s ease forwards; }}
+    .bootline {{ opacity:0; animation: fade .18s ease forwards; }}
     @keyframes bootfadeout {{ to {{ opacity:0; }} }}
     </style>""")
 
@@ -203,7 +203,7 @@ def render(theme_name, colors, stats, ist_now):
         if not line.strip():
             continue
         y = ART_Y + i * ART_LH
-        delay = BOOT_DURATION + 0.15 + i * 0.012
+        delay = BOOT_DURATION + 0.10 + i * 0.006
         tl = len(line) * ART_CW
         parts.append(
             f'<text x="{ART_X}" y="{y:.1f}" class="art artline" xml:space="preserve" '
@@ -213,7 +213,7 @@ def render(theme_name, colors, stats, ist_now):
 
     # info block
     y = INFO_Y
-    delay = BOOT_DURATION + 0.35
+    delay = BOOT_DURATION + 0.18
     cls_map = {"val": "val", "accent": "acc", "warn": "wrn", "muted": "mut"}
 
     for label, value, ckey in INFO:
@@ -252,12 +252,12 @@ def render(theme_name, colors, stats, ist_now):
                 f'<text x="{VAL_X}" y="{y:.1f}" class="{cls} row" {d}>{escape(value)}</text>'
             )
             y += INFO_LH
-        delay += 0.07
+        delay += 0.04
 
     # footer prompt + blinking cursor
     fy = H - 24
     parts.append(
-        f'<text x="{ART_X}" y="{fy}" class="row" style="animation-delay:{delay+0.1:.2f}s">'
+        f'<text x="{ART_X}" y="{fy}" class="row" style="animation-delay:{delay+0.06:.2f}s">'
         f'<tspan class="key">➜</tspan>'
         f'<tspan class="acc" dx="8">~</tspan>'
         f'<tspan class="val" dx="8">open to AI Engineer / Backend SDE roles</tspan>'

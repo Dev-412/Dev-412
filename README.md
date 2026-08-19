@@ -8,27 +8,6 @@
 
 </div>
 
-`dev@workstation:~$ fastfetch --stack`
-
-<table>
-<tr>
-<td width="26%" valign="top"><strong>⚡ Languages</strong></td>
-<td><code>Python</code> &nbsp; <code>Java</code> &nbsp; <code>JavaScript</code> &nbsp; <code>SQL</code> &nbsp; <code>Rust</code> &nbsp; <code>HTML5</code> &nbsp; <code>CSS3</code></td>
-</tr>
-<tr>
-<td width="26%" valign="top"><strong>🔧 Backend & ML</strong></td>
-<td><code>Django</code> &nbsp; <code>Flask</code> &nbsp; <code>Node.js</code> &nbsp; <code>Scikit-learn</code> &nbsp; <code>REST APIs</code></td>
-</tr>
-<tr>
-<td width="26%" valign="top"><strong>🌐 Frontend & Web3</strong></td>
-<td><code>React</code> &nbsp; <code>Vite</code> &nbsp; <code>Web3.js</code> &nbsp; <code>Arbitrum Stylus</code></td>
-</tr>
-<tr>
-<td width="26%" valign="top"><strong>🛠️ Data & Tools</strong></td>
-<td><code>PostgreSQL</code> &nbsp; <code>MongoDB</code> &nbsp; <code>Supabase</code> &nbsp; <code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>Vercel</code></td>
-</tr>
-</table>
-
 `dev@workstation:~$ tree ~/projects -L 2`
 
 <table>

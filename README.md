@@ -10,106 +10,130 @@
 
 `dev@workstation:~$ fastfetch --stack`
 
-<pre>
-<b>[01_LANGUAGES]</b>     <font color="#3fb950">❯</font> <code>Python</code> <code>Java</code> <code>JavaScript</code> <code>SQL</code> <code>Rust</code> <code>HTML5</code> <code>CSS3</code>
-<b>[02_BACKEND_ML]</b>    <font color="#3fb950">❯</font> <code>Django</code> <code>Flask</code> <code>Node.js</code> <code>Scikit-learn</code> <code>REST APIs</code>
-<b>[03_FRONTEND_WEB3]</b> <font color="#3fb950">❯</font> <code>React</code> <code>Vite</code> <code>Web3.js</code> <code>Arbitrum Stylus</code>
-<b>[04_DATA_TOOLS]</b>    <font color="#3fb950">❯</font> <code>PostgreSQL</code> <code>MongoDB</code> <code>Supabase</code> <code>Git</code> <code>GitHub</code> <code>Vercel</code>
-</pre>
+<table>
+<tr>
+<td width="26%" valign="top"><strong>⚡ Languages</strong></td>
+<td><code>Python</code> &nbsp; <code>Java</code> &nbsp; <code>JavaScript</code> &nbsp; <code>SQL</code> &nbsp; <code>Rust</code> &nbsp; <code>HTML5</code> &nbsp; <code>CSS3</code></td>
+</tr>
+<tr>
+<td width="26%" valign="top"><strong>🔧 Backend & ML</strong></td>
+<td><code>Django</code> &nbsp; <code>Flask</code> &nbsp; <code>Node.js</code> &nbsp; <code>Scikit-learn</code> &nbsp; <code>REST APIs</code></td>
+</tr>
+<tr>
+<td width="26%" valign="top"><strong>🌐 Frontend & Web3</strong></td>
+<td><code>React</code> &nbsp; <code>Vite</code> &nbsp; <code>Web3.js</code> &nbsp; <code>Arbitrum Stylus</code></td>
+</tr>
+<tr>
+<td width="26%" valign="top"><strong>🛠️ Data & Tools</strong></td>
+<td><code>PostgreSQL</code> &nbsp; <code>MongoDB</code> &nbsp; <code>Supabase</code> &nbsp; <code>Git</code> &nbsp; <code>GitHub</code> &nbsp; <code>Vercel</code></td>
+</tr>
+</table>
 
 `dev@workstation:~$ tree ~/projects -L 2`
 
 <table>
 <tr>
-<td width="25%" valign="top">
-<pre>
-┌── <b>ThreatLens-AI</b>
-│ <font color="#8b949e"># ML scam detection</font>
-│
-│ <code>Python</code> <code>Django</code>
-│ <code>React</code> <code>ML</code>
-│
-└──► <a href="https://github.com/Dev-412/ThreatLens-AI"><b>[Repo]</b></a> · <a href="https://threat-lens-ai-theta.vercel.app/"><b>[Demo]</b></a>
-</pre>
+<td width="50%" valign="top">
+
+### 🛡️ ThreatLens AI
+> Intelligent scam detection powered by ML and real-time URL risk analysis.
+
+<code>Python</code> <code>Django</code> <code>React</code> <code>Scikit-learn</code> <code>Vite</code>
+
+<br>
+
+<a href="https://github.com/Dev-412/ThreatLens-AI">📁 Repository →</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://threat-lens-ai-theta.vercel.app/">🌐 Live Demo →</a>
+
 </td>
-<td width="25%" valign="top">
-<pre>
-┌── <b>LandLedger</b>
-│ <font color="#8b949e"># Web3 land registry</font>
-│
-│ <code>Rust</code> <code>Arbitrum</code>
-│ <code>Web3</code> <code>JS</code>
-│
-└──► <a href="https://github.com/mihir021/LandLedgerFinal"><b>[Repo]</b></a> · <a href="https://landledger.online/"><b>[Demo]</b></a>
-</pre>
-</td>
-<td width="25%" valign="top">
-<pre>
-┌── <b>Predator Control</b>
-│ <font color="#8b949e"># System telemetry</font>
-│
-│ <code>Python</code> <code>GTK4</code>
-│ <code>Desktop</code>
-│
-└──► <a href="https://github.com/Dev-412/predator-control-center"><b>[Repo]</b></a>
-</pre>
-</td>
-<td width="25%" valign="top">
-<pre>
-┌── <b>Store Billing</b>
-│ <font color="#8b949e"># Billing management</font>
-│
-│ <code>Java</code>
-│ <code>OOP / CLI</code>
-│
-└──► <a href="https://github.com/Dev-412/Store-Billing-System"><b>[Repo]</b></a>
-</pre>
+<td width="50%" valign="top">
+
+### 🏛️ LandLedger
+> Decentralized Web3 land registry & property escrow built on Arbitrum Stylus.
+
+<code>Rust</code> <code>Arbitrum</code> <code>JavaScript</code> <code>Web3.js</code>
+
+<br>
+
+<a href="https://github.com/mihir021/LandLedgerFinal">📁 Repository →</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://landledger.online/">🌐 Live Demo →</a>
+
 </td>
 </tr>
 <tr>
-<td width="25%" valign="top">
-<pre>
-┌── <b>StegoSafe</b>
-│ <font color="#8b949e"># File steganography</font>
-│
-│ <code>Python</code> <code>Flask</code>
-│ <code>HTML</code> <code>CSS</code> <code>JS</code>
-│
-└──► <a href="https://github.com/Dev-412/StegoSafe"><b>[Repo]</b></a>
-</pre>
+<td width="50%" valign="top">
+
+### ⚡ Predator Control Center
+> Hardware-adaptive Linux system monitoring and telemetry control center.
+
+<code>Python</code> <code>GTK 4</code> <code>Libadwaita</code> <code>Desktop</code>
+
+<br>
+
+<a href="https://github.com/Dev-412/predator-control-center">📁 Repository →</a>
+
 </td>
-<td width="25%" valign="top">
-<pre>
-┌── <b>Arbitrum Workshop</b>
-│ <font color="#8b949e"># Blockchain workshop</font>
-│
-│ <code>HTML</code> <code>CSS</code>
-│ <code>JavaScript</code>
-│
-└──► <a href="https://github.com/Dev-412/Arbitrum-Workshop"><b>[Repo]</b></a> · <a href="https://dev-412.github.io/Arbitrum-Workshop/"><b>[Demo]</b></a>
-</pre>
+<td width="50%" valign="top">
+
+### 🛒 Store Billing System
+> Automated self-checkout and retail billing management system.
+
+<code>Java</code> <code>OOP</code> <code>Software Engineering</code>
+
+<br>
+
+<a href="https://github.com/Dev-412/Store-Billing-System">📁 Repository →</a>
+
 </td>
-<td width="25%" valign="top">
-<pre>
-┌── <b>FSD-Codes</b>
-│ <font color="#8b949e"># Coursework repo</font>
-│
-│ <code>HTML</code> <code>CSS</code>
-│ <code>JavaScript</code>
-│
-└──► <a href="https://github.com/Dev-412/FSD-Codes"><b>[Repo]</b></a>
-</pre>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 StegoSafe
+> Image steganography suite for secure, undetectable file and text hiding.
+
+<code>Python</code> <code>Flask</code> <code>HTML5</code> <code>CSS3</code> <code>JavaScript</code>
+
+<br>
+
+<a href="https://github.com/Dev-412/StegoSafe">📁 Repository →</a>
+
 </td>
-<td width="25%" valign="top">
-<pre>
-┌── <b>Python-Codes</b>
-│ <font color="#8b949e"># Python notebooks</font>
-│
-│ <code>Python</code>
-│ <code>Jupyter</code>
-│
-└──► <a href="https://github.com/Dev-412/Python-codes"><b>[Repo]</b></a>
-</pre>
+<td width="50%" valign="top">
+
+### 🌐 Arbitrum Workshop
+> Interactive smart contract and decentralized application workshop.
+
+<code>HTML5</code> <code>CSS3</code> <code>JavaScript</code> <code>Web3</code>
+
+<br>
+
+<a href="https://github.com/Dev-412/Arbitrum-Workshop">📁 Repository →</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://dev-412.github.io/Arbitrum-Workshop/">🌐 Live Demo →</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📂 FSD Codes
+> Comprehensive full-stack web development coursework and laboratory projects.
+
+<code>HTML5</code> <code>JavaScript</code> <code>CSS3</code> <code>Full Stack</code>
+
+<br>
+
+<a href="https://github.com/Dev-412/FSD-Codes">📁 Repository →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🐍 Python Codes
+> Python algorithms, utilities, and problem-solving notebooks.
+
+<code>Python</code> <code>Jupyter Notebook</code> <code>Algorithms</code>
+
+<br>
+
+<a href="https://github.com/Dev-412/Python-codes">📁 Repository →</a>
+
 </td>
 </tr>
 </table>

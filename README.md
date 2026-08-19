@@ -8,6 +8,29 @@
 
 </div>
 
+`➜ ~/stack`
+
+<table>
+<tr>
+<td width="25%" valign="top">
+<h3>⚡ Languages</h3>
+<code>Python</code> <code>Java</code> <code>JavaScript</code> <code>SQL</code> <code>Rust</code> <code>HTML5</code> <code>CSS3</code>
+</td>
+<td width="25%" valign="top">
+<h3>🔧 Backend & ML</h3>
+<code>Django</code> <code>Flask</code> <code>Node.js</code> <code>Scikit-learn</code> <code>REST APIs</code>
+</td>
+<td width="25%" valign="top">
+<h3>🌐 Frontend & Web3</h3>
+<code>React</code> <code>Vite</code> <code>Web3.js</code> <code>Arbitrum Stylus</code>
+</td>
+<td width="25%" valign="top">
+<h3>🛠️ Database & Tools</h3>
+<code>PostgreSQL</code> <code>MongoDB</code> <code>Supabase</code> <code>Git</code> <code>GitHub</code> <code>Vercel</code>
+</td>
+</tr>
+</table>
+
 `➜ ~/projects`
 
 <table>

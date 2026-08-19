@@ -42,10 +42,10 @@ INFO = [
     ("Data",     "PostgreSQL · MongoDB", "val"),
     ("__blank__", "", ""),
     ("__section__", "~/projects", ""),
-    ("StegoSafe",  "Steganography-based secure file hiding", "warn"),
+    ("ThreatLens", "AI scam detection platform (Django/React)", "warn"),
+    ("LandLedger", "Web3 decentralized land registry (Rust)", "warn"),
     ("StoreBill",  "Retail billing management system (Java)", "warn"),
-    ("Arbitrum",   "Blockchain development workshop", "warn"),
-    ("FSD",        "Full Stack Development coursework", "warn"),
+    ("Predator",   "GTK4 Linux hardware telemetry & control", "warn"),
     ("__blank__", "", ""),
     
     ("__section__", "~/reach", ""),

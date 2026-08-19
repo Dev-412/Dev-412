@@ -12,31 +12,43 @@
 
 <table>
 <tr>
-<td width="50%">
-<h3>📁 StegoSafe</h3>
-<code>Python</code> <code>Flask</code> <code>HTML</code> <code>CSS</code> <code>JS</code>
+<td width="25%" valign="top">
+<h3>📁 ThreatLens-AI</h3>
+<code>Python</code> <code>Django</code> <code>React</code> <code>ML</code>
 <br><br>
-<a href="https://github.com/Dev-412/StegoSafe">Repository →</a>
+<a href="https://github.com/Dev-412/ThreatLens-AI">Repository →</a>
 </td>
-<td width="50%">
+<td width="25%" valign="top">
+<h3>📁 LandLedger</h3>
+<code>Rust</code> <code>Arbitrum</code> <code>JavaScript</code> <code>Web3</code>
+<br><br>
+<a href="https://github.com/mihir021/LandLedgerFinal">Repository →</a>
+</td>
+<td width="25%" valign="top">
 <h3>📁 Store-Billing-System</h3>
 <code>Java</code>
 <br><br>
 <a href="https://github.com/Dev-412/Store-Billing-System">Repository →</a>
 </td>
+<td width="25%" valign="top">
+<h3>📁 predator-control-center</h3>
+<code>Python</code> <code>GTK4</code> <code>Linux</code>
+<br><br>
+<a href="https://github.com/Dev-412/predator-control-center">Repository →</a>
+</td>
 </tr>
 <tr>
-<td width="50%">
-<h3>📁 Arbitrum-Workshop</h3>
-<code>HTML</code> <code>CSS</code> <code>JavaScript</code>
-<br><br>
-<a href="https://github.com/Dev-412/Arbitrum-Workshop">Repository →</a>&nbsp;&nbsp;·&nbsp;&nbsp;<a href="https://dev-412.github.io/Arbitrum-Workshop/">Live Demo →</a>
+<td width="25%" valign="top">
+&nbsp;
 </td>
-<td width="50%">
-<h3>📁 FSD-Codes</h3>
-<code>HTML</code> <code>JavaScript</code> <code>CSS</code>
-<br><br>
-<a href="https://github.com/Dev-412/FSD-Codes">Repository →</a>
+<td width="25%" valign="top">
+&nbsp;
+</td>
+<td width="25%" valign="top">
+&nbsp;
+</td>
+<td width="25%" valign="top">
+&nbsp;
 </td>
 </tr>
 </table>
@@ -66,12 +78,6 @@
 `➜ ~/contact`
 
 [`GitHub`](https://github.com/Dev-412)&nbsp;&nbsp;·&nbsp;&nbsp;[`LinkedIn`](https://www.linkedin.com/in/dev-patel-3381a5354/)&nbsp;&nbsp;·&nbsp;&nbsp;[`Email`](mailto:dev30112010@gmail.com)
-
-<br><br>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dev-412&color=3fb950&style=flat-square&label=VISITORS" alt="Profile Views" />
-</p>
 
 <br>
 

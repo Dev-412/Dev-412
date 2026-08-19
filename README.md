@@ -51,6 +51,7 @@
 </picture>
 </p>
 
+<!--
 `➜ ~/leetcode`
 
 <p align="center">
@@ -60,10 +61,17 @@
 <br>
 <a href="https://leetcode.com/u/devp412/">View Profile →</a>
 </p>
+-->
 
 `➜ ~/contact`
 
 [`GitHub`](https://github.com/Dev-412)&nbsp;&nbsp;·&nbsp;&nbsp;[`LinkedIn`](https://www.linkedin.com/in/dev-patel-3381a5354/)&nbsp;&nbsp;·&nbsp;&nbsp;[`Email`](mailto:dev30112010@gmail.com)
+
+<br><br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dev-412&color=3fb950&style=flat-square&label=VISITORS" alt="Profile Views" />
+</p>
 
 <br>
 
